@@ -1,6 +1,6 @@
 ### Part 2: Linear Data Structures, Hashing & the Swift Collections Framework
 
-> This continues from **Part 1 (Searching & Sorting)**. Here we cover how data is *organized* — arrays, linked lists, stacks, queues, hash-based structures, and Apple's official `swift-collections` package.
+> Here we cover how data is *organized* — arrays, linked lists, stacks, queues, hash-based structures, and Apple's official `swift-collections` package.
 
 ---
 
